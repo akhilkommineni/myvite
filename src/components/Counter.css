@@ -1,0 +1,9 @@
+.buttonContainer{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button{
+    margin: 20px;
+}
